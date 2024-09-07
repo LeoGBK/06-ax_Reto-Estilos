@@ -5,3 +5,8 @@
 .cuerpo {
     background-color: aquamarine;
 }
+
+footer {
+    background-color: rgb(4, 30, 52);
+    color: white;
+}
