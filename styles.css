@@ -14,7 +14,7 @@ h1 {
 }
 
 .cuerpo {
-  background-color: rgb(16, 175, 211);
+  background: linear-gradient(rgb(35, 155, 224),rgb(150, 206, 230));
 }
 
 footer {
