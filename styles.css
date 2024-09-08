@@ -20,6 +20,12 @@ h1 {
   background: linear-gradient(rgb(35, 155, 224), rgb(150, 206, 230));
 }
 
+h2 {
+  font-weight: bold;
+  font-size: x-large;
+  padding: 1% 0% 1% 0%;
+}
+
 .center {
   display: block;
   margin-right: auto;
