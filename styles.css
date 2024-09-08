@@ -8,19 +8,20 @@
 }
 
 h1 {
-    font-size: xx-large;
-    font-weight: bold;
-    padding: 0% 0% 2% 0%;
+  font-size: xx-large;
+  font-weight: bold;
+  padding: 0% 0% 2% 0%;
 }
 
 .cuerpo {
-  background: linear-gradient(rgb(35, 155, 224),rgb(150, 206, 230));
+  background: linear-gradient(rgb(35, 155, 224), rgb(150, 206, 230));
 }
 
 .center {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 5% 0% 0% 0%;
 }
 
 footer {
