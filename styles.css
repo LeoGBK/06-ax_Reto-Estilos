@@ -33,7 +33,8 @@ h2 {
   font-size: x-large;
 }
 
-.body-text {
+.body-text,
+footer {
   padding: 1% 0% 1% 0%;
 }
 
@@ -45,4 +46,5 @@ a {
 footer {
   background-color: rgb(4, 30, 52);
   color: white;
+  font-size: small;
 }
