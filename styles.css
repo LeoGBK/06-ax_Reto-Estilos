@@ -17,6 +17,12 @@ h1 {
   background: linear-gradient(rgb(35, 155, 224),rgb(150, 206, 230));
 }
 
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 footer {
   background-color: rgb(4, 30, 52);
   color: white;
