@@ -5,6 +5,7 @@ body {
 
 .cabecera {
   color: white;
+  /* Acceso a la imagen de fondo del estadio para la cabecera */
   background-image: url(stadium-02.jpg);
   padding: 3% 0% 5% 0%;
   background-size: cover;
@@ -21,6 +22,7 @@ h1 {
   padding-bottom: 3%;
 }
 
+/* Estilo de centrado para la <img> con esta clase */
 .center {
   display: block;
   margin-right: auto;
